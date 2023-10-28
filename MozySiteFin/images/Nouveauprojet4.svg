@@ -1,0 +1,39 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+	<title>Nouveau projet</title>
+	<defs>
+		<image  width="1920" height="1080" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAAQ4AQMAAADSHVMAAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAARNJREFUeJztwQENAAAAwqD3T20PBxQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMCnAfjlAAGZJYkPAAAAAElFTkSuQmCC"/>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m74.62-79.48l363.87-263.06 411.88 569.7-363.87 263.07z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="982.6" y1="1035.4" x2="966.2" y2="94" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".202" stop-color="#ffffff"/>
+			<stop offset=".829" stop-color="#90c0d4"/>
+			<stop offset=".898" stop-color="#7ab3cb"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m405.62-49.48l363.87-263.06 411.88 569.7-363.87 263.07z"/>
+		</clipPath>
+		<linearGradient id="g2" x1="951.6" y1="623.4" x2="935.2" y2="-318" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".202" stop-color="#ffffff"/>
+			<stop offset=".829" stop-color="#90c0d4"/>
+			<stop offset=".898" stop-color="#7ab3cb"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: none;stroke: #ffffff;stroke-width: 10 } 
+		.s1 { opacity: .7;fill-opacity: .8;fill: url(#g1) } 
+		.s2 { opacity: .7;fill-opacity: .8;fill: url(#g2) } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<g clip-path="url(#cp1)">
+		<path id="Forme 2" class="s0" d="m74.6-79.5l363.9-263 411.9 569.7-363.9 263z"/>
+		<path id="Forme 1" class="s1" d="m-65-75h2038v1207h-2038z"/>
+		<g clip-path="url(#cp2)">
+			<path id="Forme 2 copy" class="s0" d="m405.6-49.5l363.9-263 411.9 569.7-363.9 263z"/>
+			<path id="Forme 1 copy" class="s2" d="m-96-487h2038v1207h-2038z"/>
+		</g>
+</svg>

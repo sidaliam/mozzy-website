@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+	<title>Nouveau projet</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #ffffff;stroke: #70a8d0;stroke-width: 10 } 
+		.t1 { font-size: 300px;fill: #000000;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+	</style>
+	<path id="Forme 1" class="s0" d="m830.4 926l-579.8 0.4-179.5-551.3 468.8-341.1 469.3 340.4z"/>
+	<text id="VRD" style="transform: matrix(1,0,0,1,233,391)" >
+		<tspan x="0" y="227.9" class="t1">V</tspan><tspan  y="227.9" class="t1">R</tspan><tspan  y="227.9" class="t1">D
+</tspan>
+	</text>
+</svg>

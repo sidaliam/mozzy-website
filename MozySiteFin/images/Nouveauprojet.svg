@@ -1,0 +1,27 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+	<title>Nouveau projet</title>
+	<defs>
+		<image  width="1920" height="1080" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAAQ4AQMAAADSHVMAAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAARNJREFUeJztwQENAAAAwqD3T20PBxQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMCnAfjlAAGZJYkPAAAAAElFTkSuQmCC"/>
+		<linearGradient id="g1" x1="-115.5" y1="40.9" x2="814.4" y2="668.2" gradientUnits="userSpaceOnUse">
+			<stop offset=".123" stop-color="#273053" stop-opacity="1"/>
+			<stop offset=".803" stop-color="#273053" stop-opacity="0"/>
+			<stop offset=".859" stop-color="#273053" stop-opacity="0"/>
+			<stop offset="1" stop-color="#000000" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="142.5" y1="-1.1" x2="1072.4" y2="626.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#273053" stop-opacity="1"/>
+			<stop offset=".54" stop-color="#70a8d0" stop-opacity="1"/>
+			<stop offset=".75" stop-color="#7bbae2" stop-opacity=".28"/>
+			<stop offset=".803" stop-color="#7ab9e1" stop-opacity="0"/>
+			<stop offset=".952" stop-color="#63a1c3" stop-opacity="0"/>
+			<stop offset="1" stop-color="#000000" stop-opacity="0"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<path id="Forme 1" class="s0" d="m182.6-234.4l631.8 987.1-298.2 190.8-631.7-987.1z"/>
+	<path id="Forme 1 copy" class="s1" d="m440.6-276.4l631.8 987.1-298.2 190.8-631.7-987.1z"/>
+</svg>

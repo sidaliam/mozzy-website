@@ -1,0 +1,34 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+	<title>deg2-svg</title>
+	<defs>
+		<image width="1920" height="1080" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAAQ4AQMAAADSHVMAAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAARNJREFUeJztwQENAAAAwqD3T20PBxQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMCnAfjlAAGZJYkPAAAAAElFTkSuQmCC"/>
+		<linearGradient id="g1" x1="911.3" y1="858.9" x2="1234.4" y2="-267.8" gradientUnits="userSpaceOnUse">
+			<stop offset="-0.022" stop-color="#000000"/>
+			<stop offset="0" stop-color="#2d82be"/>
+			<stop offset=".655" stop-color="#ffffff"/>
+			<stop offset=".779" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="1156.3" y1="1128.9" x2="1479.4" y2="2.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#000000"/>
+			<stop offset=".655" stop-color="#ffffff"/>
+			<stop offset=".779" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="2127.3" y1="1781.9" x2="2450.4" y2="655.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#000000"/>
+			<stop offset=".655" stop-color="#ffffff"/>
+			<stop offset=".779" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { opacity: .2;fill: none;stroke: url(#g1);stroke-width: 300 } 
+		.s1 { opacity: .2;fill: none;stroke: url(#g2);stroke-width: 10 } 
+		.s2 { opacity: .2;fill: none;stroke: url(#g3);stroke-width: 10 } 
+	</style>
+	<use id="img1" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+	<path id="Forme 1" class="s0" d="m-563.4 377.4l2109.1-1087.2 333.1 646.3-2109.1 1087.1z"/>
+	<path id="Forme 1 copy 2" class="s1" d="m-318.4 647.4l2109.1-1087.2 333.1 646.3-2109.1 1087.1z"/>
+	<path id="Forme 1 copy 3" class="s2" d="m652.6 1300.4l2109.1-1087.2 333.1 646.3-2109.1 1087.1z"/>
+</svg>
